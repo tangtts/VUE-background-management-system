@@ -1,6 +1,6 @@
 # 后台管理系统
 
-本系统使用 vue3 框架框架, 使用 element-plus 作为组件库, 目的是为了简化后台开发，后续不断增加模块功能
+本系统使用 vue3 框架框架, 使用 element-plus 作为组件库, 目的是为了简化后台开发，后续不断增加模块功能,实际效果访问[✋🏻这里](https://vue-background-management-system-7v8o.vercel.app)
 
 ## 框架
 
