@@ -1,0 +1,9 @@
+@use "./theme.scss";
+
+html:not(.dark) {
+  --el-color-primary: #{theme.$color-primary};
+
+  .el-table__header {
+    --el-table-header-bg-color: #{theme.$color-grey-1};
+  }
+}

@@ -1,0 +1,6 @@
+@use "./theme.scss";
+
+html.dark {
+  /* 自定义深色背景颜色 */
+  --el-color-primary: #{theme.$color-primary};
+}
