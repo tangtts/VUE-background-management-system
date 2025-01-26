@@ -1,8 +1,8 @@
 {
   "name": "vue-bms",
   "private": false,
-  "description": "简易封装的后台管理系统",
-  "version": "0.0.3",
+  "description": "简易封装的后台管理系统,方便后续扩展",
+  "version": "0.0.4",
   "type": "module",
   "keywords": [
     "vue",
@@ -15,7 +15,7 @@
   ],
   "repository": "https://github.com/tangtts/VUE-background-management-system.git",
   "homepage": "https://vue-background-management-system-7v8o.vercel.app",
-  "files": ["*"],
+  "files": ["src","public","index.html","postcss.config.js","tailwind.config.js","README.md","vite.config.js",".env.**"],
   "scripts": {
     "dev": "vite --open",
     "build": "vite build",

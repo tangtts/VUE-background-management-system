@@ -2,7 +2,6 @@
 
 import { ref, computed, reactive } from 'vue';
 import { ElConfigProvider } from 'element-plus'
-import { defaultLanguage } from "@/store/useLanguageStore"
 import zhCn from 'element-plus/es/locale/lang/zh-cn'
 import en from 'element-plus/es/locale/lang/en';
 const language = computed(() => {
